@@ -1,0 +1,10 @@
+name: HCI_Viz
+account: phdataviz
+server: shinyapps.io
+appId: 87575
+bundleId: 464183
+url: https://phdataviz.shinyapps.io/HCI_Viz/
+when: 1464340676.84234
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Healthy Communities Data and Indicators.url|sactter 1.R|topGlobal.R|Xui.R|RawDat/HCI_AbuseNeglectChildren_741_CT_PL_CO_RE_CA-24-4-15.xlsx|RawDat/HCI_AlcoholOutletsQ_774_CA_RE_CO_CD_PL_CT-A-N-5-16-14.xlsx|RawDat/HCI_AlcoholOutletsQ_774_CO_CD_PL_CT-O-Y-5-16-14.xlsx|RawDat/HCI_PovertyRate_754_CT_PL_CO_RE_CA_1-22-14.xlsx|RawDat/HCI_RetailFoodEnvironment_75_CA_CO_RE_PL_CT_11-15-13.xls|RawDat/HCI_RetailFoodEnvironment_75_CA_CO_RE_PL_CT_11-15-13.xlsx|RawDat/JUNK--HCI_AbuseNeglectChildren_741_CT_PL_CO_RE_CA-24-4-15.xlsx|RawDat/MSSA_ACS_DETAIL.csv|RawDat/MSSA_ACS_DETAIL.xlsx|RawDat/ParkBeachOpen10_output4-12-13.xlsx|Shapes/MSSA_2010ACSv2.dbf|Shapes/MSSA_2010ACSv2.shp|Shapes/MSSA_2010ACSv2.shx|Shapes/US_FIPS_Codes.txt
