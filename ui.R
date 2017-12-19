@@ -35,7 +35,7 @@ conditionalPanel(condition = paste("input.ID == ",c(2),c(rep("|",0),""),  collap
 hr(),
 
 helpText("Data Source: California Department of Public Health","Office of Health Equity",
-         tags$a(href="https://www.cdph.ca.gov/programs/Pages/HealthyCommunityIndicators.aspx#DataIndAv",
+         tags$a(href="https://www.cdph.ca.gov/Programs/OHE/Pages/Healthy-Communities-Data-and-Indicators-Cover-Page.aspx",
                 "Healthy Communities Data and Indicators Project (HCI)")),
 
 hr(),
